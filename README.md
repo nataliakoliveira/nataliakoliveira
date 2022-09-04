@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natália Oliveira</h1>
 <h3 align="center">A Web Development and Software Engineer student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nataliakoliveirs" alt="nataliakoliveirs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nataliakoliveirs" alt="nataliakoliveira" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
