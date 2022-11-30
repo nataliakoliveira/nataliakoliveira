@@ -40,8 +40,6 @@ src="https://img.shields.io/github/followers/nataliakoliveira?logo=github&style=
 
 <a href="http://www.github.com/nataliakoliveira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliakoliveira&stroke=10b981&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=10b981&currStreakLabel=ec4899&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
-<a href="http://www.github.com/nataliakoliveira"><img src="https://activity-graph.herokuapp.com/graph?username=nataliakoliveira&bg_color=27272a&color=10b981&line=ec4899&point=10b981&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/nataliakoliveira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakoliveira&langs_count=10&title_color=ec4899&text_color=10b981&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
