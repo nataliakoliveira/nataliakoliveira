@@ -30,7 +30,6 @@ src="https://img.shields.io/github/followers/nataliakoliveira?logo=github&style=
 
 <p align="left"> <a href="https://discord.com/users/Natália Oliveira#6064" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/nataliakoliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nataliaoliveira--/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-![snake gif](https://github.com/nataliakoliveira/nataliakoliveira/blob/output/github-contribution-grid-snake.svg)
 
 ### Badges
 
